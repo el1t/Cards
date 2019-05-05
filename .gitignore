@@ -12,4 +12,7 @@ Demo/Demo\.xcworkspace/xcuserdata/paolocuscela\.xcuserdatad/xcdebugger/
 
 Demo/Demo\.xcodeproj/xcuserdata/
 
+Cards.xcodeproj/xcuserdata/
+Carthage/Build/
+
 *.xcbkptlist
